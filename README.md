@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @P4l0m4
-- 👀 I’m interested in artistic coding, javascript frameworks and 3D for websites
+- 👀 I’m interested in creative coding, javascript frameworks and 3D for websites
 - 📫 How to reach me : palomatejeda81@gmail.com
 
 
