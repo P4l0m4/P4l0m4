@@ -1,5 +1,8 @@
 # 🚀 About me
 
+Product Engineer specialized in designing and developing B2B(2C) SaaS products with complex business domains. 
+Experience across startup, scale-up, and industrial R&D environments, from MVP phase to technical and product structuring.
+
 ## ✨ Interested in 
 - Creative coding
 - JavaScript/TypeScript frameworks
