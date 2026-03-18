@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @P4l0m4
 - 👀 I’m interested in creative coding, javascript frameworks and 3D for websites
 
-I also have a LinkedIn page if you want to know more about my work experience https://www.linkedin.com/in/paloma-t-14627a19a/
+I also have a LinkedIn page if you want to know more about my work experience 
+https://www.linkedin.com/in/paloma-t-14627a19a/
 
 
 <!---
