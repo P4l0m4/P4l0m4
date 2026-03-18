@@ -1,13 +1,24 @@
 # 🚀 About me
 
-## Interested in creative coding, JavaScript/TypeScript frameworks and 3D for websites
+## ✨ Interested in 
+- Creative coding
+- JavaScript/TypeScript frameworks
+- 3D for websites
+
+## ❤️‍🔥 Fav languages/libs/frameworks
+- Nuxt.js
+- Vue.js
+- TypeScript
+- Three.js
+- WebGL
+
+## 🎯 Obsessions
+- Web performance
+- Technical SEO
+- User Experience
+- Accessibility
+- Making something people want
 
 ## 💼 LinkedIn: https://www.linkedin.com/in/paloma-t-14627a19a/
-
-
-<!---
-P4l0m4/P4l0m4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P4l0m4&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
